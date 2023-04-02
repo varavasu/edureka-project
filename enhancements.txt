@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 Added download functionality in master branch
+Added downloaded functionality in feature branch
+>>>>>>> feature
